@@ -220,5 +220,5 @@ Now, whenever the developer will push to the main branch, the deployment will be
 ![deployementautomatic](https://github.com/priyansh2120/node-and-django-deployment/assets/96059277/4c00e38a-44a4-406f-af4b-58844617bcf2)
 
 The Deployed Notes App
-![image](https://github.com/priyansh2120/node-and-django-deployment/assets/96059277/8c87a316-d5d0-403d-a212-71f921e7381c)
+![image](https://github.com/priyansh2120/node-and-django-deployment/assets/96059277/cb8b7801-47c4-4cd0-abe7-1fe85d641d01)
 
